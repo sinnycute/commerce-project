@@ -1,0 +1,172 @@
+{
+    "products": [
+        {
+            "id": "WOPV6BDFSR",
+            "name": "Hoe",
+            "description": "30 cm length, 20 cmd width. For Agriculture ",
+            "picture": "/static/img/products/hoe.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 269,
+                "nanos": 990000000
+            },
+            "categories": ["iron-items"]
+        },
+        {
+            "id": "WOPV6BDFTO",
+            "name": "Tool Kit",
+            "description": "Hammer, Screw Driver, plyer, spanner",
+            "picture": "/static/img/products/toolkit.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 439,
+                "nanos": 990000000
+            },
+            "categories": ["iron-items"]
+        },
+        {
+            "id": "WOPV6BDFAA",
+            "name": "Nails",
+            "description": "1, 1.5, 2, 2.5, 3 inch",
+            "picture": "/static/img/products/nail.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 1,
+                "nanos": 990000000
+            },
+            "categories": ["iron-items"]
+        },
+        {
+            "id": "WOPV6BDFSC",
+            "name": "School Bag",
+            "description": "School Bags for Kids",
+            "picture": "/static/img/products/schoolbag.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 199,
+                "nanos": 990000000
+            },
+            "categories": ["kids"]
+        },
+        {
+            "id": "WOPV6BDFKU",
+            "name": "Kids Chappal",
+            "description": "Kids Chappal for Home Use",
+            "picture": "/static/img/products/slippers-kids.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 79,
+                "nanos": 990000000
+            },
+            "categories": ["kids"]
+        },
+        {
+            "id": "WOPV6BDFKI",
+            "name": "Adult Chappal",
+            "description": "Adult Chappal for Home Use",
+            "picture": "/static/img/products/slippers.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 119,
+                "nanos": 990000000
+            },
+            "categories": ["wearings"]
+        },
+        {
+            "id": "WOPV6BDFBR",
+            "name": "Broom",
+            "description": "Broom for Home Use",
+            "picture": "/static/img/products/broom.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 59,
+                "nanos": 990000000
+            },
+            "categories": ["housecleaning"]
+        },
+        {
+            "id": "WOPV6BDFTE",
+            "name": "Teaspoon",
+            "description": "teaspoon",
+            "picture": "/static/img/products/teaspoon.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 17,
+                "nanos": 990000000
+            },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "WOPV6BDFKA",
+            "name": "Knife",
+            "description": "Knife to cut vegetables",
+            "picture": "/static/img/products/knife.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 43,
+                "nanos": 990000000
+            },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "WOPV6BDFCH",
+            "name": "Planting Pots",
+            "description": "18 cm, 25 cmd height ",
+            "picture": "/static/img/products/pot.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 18,
+                "nanos": 990000000
+            },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "OLJCESPC7Z",
+            "name": "Net",
+            "description": "3 meter length, square shape.",
+            "picture": "/static/img/products/wellnet.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 69,
+                "nanos": 990000000
+            },
+            "categories": ["protection-nets"]
+        },
+        {
+            "id": "WOPV6BDFIR",
+            "name": "Iron Net",
+            "description": "Iron Net for birds nest",
+            "picture": "/static/img/products/ironnet.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 39,
+                "nanos": 990000000
+            },
+            "categories": ["iron-items"]
+        },
+        {
+            "id": "WOPV6BDFCL",
+            "name": "Clips",
+            "description": "Clips for handing clothes",
+            "picture": "/static/img/products/clip.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 2,
+                "nanos": 990000000
+            },
+            "categories": ["housecleaning"]
+        },
+        {
+            "id": "WOPV6BDFBS",
+            "name": "Toilet Brush",
+            "description": "Toilet Clearning Brush",
+            "picture": "/static/img/products/toiletbrush.jpg",
+            "priceUsd": {
+                "currencyCode": "INR",
+                "units": 43,
+                "nanos": 990000000
+            },
+            "categories": ["housecleaning"]
+        }
+    ]
+}

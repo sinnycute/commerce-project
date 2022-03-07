@@ -1,0 +1,20 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+
+resources:
+        - ../../kubernetes-manifests
+
+patches:
+  - path: adservice-patch.yaml
+  - path: cartservice-patch.yaml
+  - path: checkoutservice-patch.yaml
+  - path: currencyservice-patch.yaml
+  - path: emailservice-patch.yaml
+  - path: frontend-patch.yaml
+  - path: loadgenerator-patch.yaml
+  - path: paymentservice-patch.yaml
+  - path: productcatalogservice-patch.yaml
+  - path: recommendationservice-patch.yaml
+  - path: shippingservice-patch.yaml  
+ 
